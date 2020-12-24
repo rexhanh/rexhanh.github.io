@@ -1,0 +1,14 @@
+title: Rex Han's Personal Website
+sitename: Rex's Website
+# baseurl: '/one-page-wonder-jekyll'
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - features
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
