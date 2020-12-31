@@ -27,7 +27,7 @@ Our team used Turtle bots for the final project. I am mostly developing the visu
 </html>
 
 #### Dungeon Master (Swift)
-I made this little game back in May 2020 when I just started learning Swift. I was pretty proud of it when I finished it. This is basically a RPG game that the player suppose to kill all the ghosts in four dungeons and face off the final boss after.
+I made this little game back in May 2020 when I just started learning Swift. I was pretty proud of it when I finished it. This is basically a RPG game where the player is supposed to kill all the ghosts in four dungeons and face off the final boss after.
 
 
 
