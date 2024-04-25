@@ -1,0 +1,99 @@
+[
+  {
+    "name": "Maze Runner",
+    "url": "https://robot-gang.github.io/maze-runner/",
+    "description": "Our team has designed custom algorithm for TurtleBot. The green paper was the imaginary wall of the maze, and a camera was on a tripod to provide vision for the robot. The robot will find the other opening as the exit with our custom A*, and move towards it. More detailed description will be in the link.",
+    "subdescription": "Python, ROS",
+    "images": [
+      {
+        "original": "https://robot-gang.github.io/maze-runner/assets/introduction/intro_maze_runner.png",
+        "thumbnail": "https://robot-gang.github.io/maze-runner/assets/introduction/intro_maze_runner.png",
+        "originalHeight": "300px"
+      },
+      {
+        "original": "https://robot-gang.github.io/maze-runner/assets/introduction/paper_maze.png",
+        "thumbnail": "https://robot-gang.github.io/maze-runner/assets/introduction/paper_maze.png",
+        "originalHeight": "300px"
+      }
+    ]
+  },
+  {
+    "name": "The Weird World",
+    "url": "https://github.com/rexhanh/BYOW",
+    "subdescription": "Java",
+    "description": "This is a game base on custom rendering engine in Java. It is a basic 2D tile game that the player needs to find the exit for the maze, and the player can also look for a switch to ligh up the entire mape. Me and my teammate also implemented custom random dungeon generation for this game. ",
+    "images": [
+      {
+        "original": "https://i.ibb.co/SNq6xbS/start0.png",
+        "thumbnail": "https://i.ibb.co/SNq6xbS/start0.png",
+        "originalHeight": "300px"
+      },
+      {
+        "original": "https://i.ibb.co/9rvjk1L/ingame1.png",
+        "thumbnail": "https://i.ibb.co/9rvjk1L/ingame1.png",
+        "originalHeight": "300px"
+      },
+      {
+        "original": "https://i.ibb.co/gvfn8j4/ingame0.png",
+        "thumbnail": "https://i.ibb.co/gvfn8j4/ingame0.png",
+        "originalHeight": "300px"
+      }
+    ]
+  },
+  {
+    "name": "Dungeon Master",
+    "url": "https://github.com/rexhanh/DungeonMaster",
+    "subdescription": "Swift, SpriteKit",
+    "description": "This is a game completely write in Swift. It used SpriteKit as the game engine.",
+    "images": [
+      {
+        "original": "https://i.ibb.co/b1B3rD2/dm0.png",
+        "thumbnail": "https://i.ibb.co/b1B3rD2/dm0.png",
+        "originalHeight": "300px"
+      },
+      {
+        "original": "https://i.ibb.co/DW2TnMV/dm1.png",
+        "thumbnail": "https://i.ibb.co/DW2TnMV/dm1.png",
+        "originalHeight": "300px"
+      },
+      {
+        "original": "https://i.ibb.co/yPT4thw/dm2.png",
+        "thumbnail": "https://i.ibb.co/yPT4thw/dm2.png",
+        "originalHeight": "300px"
+      },
+      {
+        "original": "https://i.ibb.co/99V0B62/dm3.png",
+        "thumbnail": "https://i.ibb.co/99V0B62/dm3.png",
+        "originalHeight": "300px"
+      },
+      {
+        "original": "https://i.ibb.co/FKrwcyR/dm4.png",
+        "thumbnail": "https://i.ibb.co/FKrwcyR/dm4.png",
+        "originalHeight": "300px"
+      }
+    ]
+  },
+  {
+    "name": "Mobile App Covid Info",
+    "url": "https://github.com/rexhanh/Covid_info",
+    "subdescription": "Swift, CocoaPod",
+    "description": "This was a little project completed in summer 2020. It was used to track global covid data from online APIs.",
+    "images": [
+      {
+        "original": "https://i.ibb.co/pnDgDGp/Demo0.png",
+        "thumbnail": "https://i.ibb.co/pnDgDGp/Demo0.png",
+        "originalHeight": "500px"
+      },
+      {
+        "original": "https://i.ibb.co/7t8pk1w/Demo1.png",
+        "thumbnail": "https://i.ibb.co/7t8pk1w/Demo1.png",
+        "originalHeight": "500px"
+      },
+      {
+        "original": "https://i.ibb.co/thtgJWb/Demo2.png",
+        "thumbnail": "https://i.ibb.co/thtgJWb/Demo2.png",
+        "originalHeight": "500px"
+      }
+    ]
+  }
+]
