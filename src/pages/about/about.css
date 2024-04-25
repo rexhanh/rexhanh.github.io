@@ -1,8 +1,9 @@
 .about-container {
-  position: relative;
+  position: absolute;
   top: 0;
   display: flex;
-  width: 100vw;
+  align-items: center;
+  min-height: 100vh;
   background: linear-gradient(rgba(0, 114, 255, 0.5), rgba(137, 207, 240, 0.5));
 }
 

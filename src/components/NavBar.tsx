@@ -9,7 +9,6 @@ const NavBar = () => {
       className="bg-body-tertiary"
       data-bs-theme="dark"
       sticky="top"
-      style={{ backgroundColor: "rgba(255,255,255,0)" }}
     >
       <Container>
         <Navbar.Brand href="/">Rex Website</Navbar.Brand>
