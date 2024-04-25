@@ -5,14 +5,6 @@ import { animated, useSpring } from "@react-spring/web";
 
 import "./home.css";
 const Home = () => {
-  const [props, api] = useSpring(
-    () => ({
-      config: { duration: 750 },
-      from: { opacity: 0 },
-      to: { Opacity: 1 },
-    }),
-    []
-  );
   return (
     <>
       <div className="main-container">
