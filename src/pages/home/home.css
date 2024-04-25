@@ -30,12 +30,13 @@
 
 .img-cover-rd {
   /* margin-left: 20px; */
-  width: 200px;
+  width: 150px;
 }
 
 .avatar-img-container {
   display: flex;
   margin-left: 50px;
+  max-width: 200px;
 }
 
 .avatar-text-container {
