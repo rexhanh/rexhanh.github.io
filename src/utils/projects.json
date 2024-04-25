@@ -7,13 +7,11 @@
     "images": [
       {
         "original": "https://robot-gang.github.io/maze-runner/assets/introduction/intro_maze_runner.png",
-        "thumbnail": "https://robot-gang.github.io/maze-runner/assets/introduction/intro_maze_runner.png",
-        "originalHeight": "300px"
+        "thumbnail": "https://robot-gang.github.io/maze-runner/assets/introduction/intro_maze_runner.png"
       },
       {
         "original": "https://robot-gang.github.io/maze-runner/assets/introduction/paper_maze.png",
-        "thumbnail": "https://robot-gang.github.io/maze-runner/assets/introduction/paper_maze.png",
-        "originalHeight": "300px"
+        "thumbnail": "https://robot-gang.github.io/maze-runner/assets/introduction/paper_maze.png"
       }
     ]
   },
@@ -25,18 +23,15 @@
     "images": [
       {
         "original": "https://i.ibb.co/SNq6xbS/start0.png",
-        "thumbnail": "https://i.ibb.co/SNq6xbS/start0.png",
-        "originalHeight": "300px"
+        "thumbnail": "https://i.ibb.co/SNq6xbS/start0.png"
       },
       {
         "original": "https://i.ibb.co/9rvjk1L/ingame1.png",
-        "thumbnail": "https://i.ibb.co/9rvjk1L/ingame1.png",
-        "originalHeight": "300px"
+        "thumbnail": "https://i.ibb.co/9rvjk1L/ingame1.png"
       },
       {
         "original": "https://i.ibb.co/gvfn8j4/ingame0.png",
-        "thumbnail": "https://i.ibb.co/gvfn8j4/ingame0.png",
-        "originalHeight": "300px"
+        "thumbnail": "https://i.ibb.co/gvfn8j4/ingame0.png"
       }
     ]
   },
@@ -48,28 +43,23 @@
     "images": [
       {
         "original": "https://i.ibb.co/b1B3rD2/dm0.png",
-        "thumbnail": "https://i.ibb.co/b1B3rD2/dm0.png",
-        "originalHeight": "300px"
+        "thumbnail": "https://i.ibb.co/b1B3rD2/dm0.png"
       },
       {
         "original": "https://i.ibb.co/DW2TnMV/dm1.png",
-        "thumbnail": "https://i.ibb.co/DW2TnMV/dm1.png",
-        "originalHeight": "300px"
+        "thumbnail": "https://i.ibb.co/DW2TnMV/dm1.png"
       },
       {
         "original": "https://i.ibb.co/yPT4thw/dm2.png",
-        "thumbnail": "https://i.ibb.co/yPT4thw/dm2.png",
-        "originalHeight": "300px"
+        "thumbnail": "https://i.ibb.co/yPT4thw/dm2.png"
       },
       {
         "original": "https://i.ibb.co/99V0B62/dm3.png",
-        "thumbnail": "https://i.ibb.co/99V0B62/dm3.png",
-        "originalHeight": "300px"
+        "thumbnail": "https://i.ibb.co/99V0B62/dm3.png"
       },
       {
         "original": "https://i.ibb.co/FKrwcyR/dm4.png",
-        "thumbnail": "https://i.ibb.co/FKrwcyR/dm4.png",
-        "originalHeight": "300px"
+        "thumbnail": "https://i.ibb.co/FKrwcyR/dm4.png"
       }
     ]
   },
@@ -81,18 +71,15 @@
     "images": [
       {
         "original": "https://i.ibb.co/pnDgDGp/Demo0.png",
-        "thumbnail": "https://i.ibb.co/pnDgDGp/Demo0.png",
-        "originalHeight": "500px"
+        "thumbnail": "https://i.ibb.co/pnDgDGp/Demo0.png"
       },
       {
         "original": "https://i.ibb.co/7t8pk1w/Demo1.png",
-        "thumbnail": "https://i.ibb.co/7t8pk1w/Demo1.png",
-        "originalHeight": "500px"
+        "thumbnail": "https://i.ibb.co/7t8pk1w/Demo1.png"
       },
       {
         "original": "https://i.ibb.co/thtgJWb/Demo2.png",
-        "thumbnail": "https://i.ibb.co/thtgJWb/Demo2.png",
-        "originalHeight": "500px"
+        "thumbnail": "https://i.ibb.co/thtgJWb/Demo2.png"
       }
     ]
   }

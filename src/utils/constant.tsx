@@ -37,70 +37,7 @@ const languageList = [
   },
   { name: "English", level: "Excellent" },
 ];
-const a = {
-  name: "Maze Runner",
-  url: "https://robot-gang.github.io/maze-runner/",
-  description:
-    "Our team has designed custom algorithm for TurtleBot. The green paper was the imaginary wall of the maze, and a camera was on a tripod to provide vision for the robot. The robot will find the other opening as the exit with our custom A*, and move towards it. More detailed description will be in the link.",
-  subdescription: "Python, ROS",
-  images: [
-    {
-      original:
-        "https://robot-gang.github.io/maze-runner/assets/introduction/intro_maze_runner.png",
-      thumbnail:
-        "https://robot-gang.github.io/maze-runner/assets/introduction/intro_maze_runner.png",
-      originalHeight: "300px",
-    },
-    {
-      original:
-        "https://robot-gang.github.io/maze-runner/assets/introduction/paper_maze.png",
-      thumbnail:
-        "https://robot-gang.github.io/maze-runner/assets/introduction/paper_maze.png",
-      originalHeight: "300px",
-    },
-  ],
-};
 
-class GalleryImage {
-  original: string;
-  thumbnail: string;
-  originalHeight: string;
-
-  constructor(original: string, thumbnail: string, originalHeight: string) {
-    this.original = original;
-    this.thumbnail = thumbnail;
-    this.originalHeight = originalHeight;
-  }
-}
-
-class Project {
-  name: string;
-  url: string;
-  description: string;
-  subdescription: string;
-  images: GalleryImage[];
-  constructor(
-    name: string,
-    url: string,
-    description: string,
-    subdescription: string,
-    galleryImage: GalleryImage[]
-  ) {
-    this.name = name;
-    this.url = url;
-    this.description = description;
-    this.subdescription = subdescription;
-    this.images = galleryImage;
-  }
-}
-
-let something = new Project(
-  "project name",
-  "",
-  "description",
-  "subdescription",
-  []
-);
 export {
   aboutMeText,
   experienceText,

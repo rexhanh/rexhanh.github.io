@@ -38,15 +38,23 @@ const Projects = () => {
                   </a>
                 )}
                 {item.images && (
-                  <ImageGallery
-                    items={[]}
-                    infinite={false}
-                    showFullscreenButton={false}
-                    showPlayButton={false}
-                    showBullets={false}
-                    showNav={false}
-                    thumbnailPosition={"right"}
-                  />
+                  <div
+                    style={{
+                      justifyContent: "center",
+                      display: "flex",
+                    }}
+                  >
+                    <div style={{ width: "50%" }}>
+                      <ImageGallery
+                        items={item.images}
+                        infinite={false}
+                        showPlayButton={false}
+                        showBullets={false}
+                        showNav={false}
+                        thumbnailPosition={"right"}
+                      />
+                    </div>
+                  </div>
                 )}
               </Card.Body>
             </Card>
