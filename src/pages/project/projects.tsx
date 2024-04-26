@@ -52,6 +52,9 @@ const Projects = () => {
                         showBullets={false}
                         showNav={false}
                         thumbnailPosition={"right"}
+                        showFullscreenButton={
+                          item.images.length === 0 ? false : true
+                        }
                       />
                     </div>
                   </div>

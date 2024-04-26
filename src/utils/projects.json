@@ -1,5 +1,12 @@
 [
   {
+    "name": "Face recognition using PCA and clustering",
+    "url": "https://github.com/rexhanh/SVD_FaceRecog",
+    "description": "This is a project done in winter 2024 at University of Toronto for ECE1513. It is a quick face classification method that uses SVD and different clustering method such as KNN, KMeans, Nearest Centroid, etc.",
+    "subdescription": "Python, Sklearn, Numpy",
+    "images": []
+  },
+  {
     "name": "Maze Runner",
     "url": "https://robot-gang.github.io/maze-runner/",
     "description": "Our team has designed custom algorithm for TurtleBot. The green paper was the imaginary wall of the maze, and a camera was on a tripod to provide vision for the robot. The robot will find the other opening as the exit with our custom A*, and move towards it. More detailed description will be in the link.",
